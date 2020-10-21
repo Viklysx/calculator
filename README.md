@@ -1,1 +1,1 @@
-Реализация калькулятора в рамках учебного проекта.Ссылка: https://viklysx.github.io/calculator/
+Реализация калькулятора в рамках учебного проекта. Ссылка: https://viklysx.github.io/calculator/
